@@ -1,7 +1,7 @@
 # leejseungAlgorithm
 Algorithm
-BubbleSorting
-[SelectionSorting](Solting/sketch_260910d/bubbleSolting.pde)
+
+[BubbleSorting](Solting/sketch_260910d/bubbleSolting.pde)
 ![Alt homework11](./homework/homework2.jpg)
 
 
