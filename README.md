@@ -1,6 +1,9 @@
 # leejseungAlgorithm
 Algorithm
 
+[insertionSorting](Solting/sketch_260910d/insertionSolting.pde)
+![Alt homework12](./homework/homework3.png)
+
 [BubbleSorting](Solting/sketch_260910d/bubbleSolting.pde)
 ![Alt homework12](./homework/homework2.png)
 
