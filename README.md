@@ -1,6 +1,15 @@
 # leejseungAlgorithm
 Algorithm
 
+[heapSorting](Solting/sketch_260910d/heapSolting.pde)
+![Alt homework12](./homework/homework6.png)
+
+[mergeSorting](Solting/sketch_260910d/mergeSolting.pde)
+![Alt homework12](./homework/homework5.png)
+
+[quickSorting](Solting/sketch_260910d/quickSolting.pde)
+![Alt homework12](./homework/homework4.png)
+
 [insertionSorting](Solting/sketch_260910d/insertionSolting.pde)
 ![Alt homework12](./homework/homework3.png)
 
