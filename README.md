@@ -2,7 +2,7 @@
 Algorithm
 
 [SortingAnimation](Solting/sketch_260910d/SortAnimation.pde)
-![Alt homework12](./homework/화면 녹화 중 2026-10-15 113620.mp4)
+![Alt homework12](./homework/homework7)
 
 [heapSorting](Solting/sketch_260910d/heapSolting.pde)
 ![Alt homework12](./homework/homework6.png)
