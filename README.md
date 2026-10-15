@@ -1,6 +1,8 @@
 # leejseungAlgorithm
 Algorithm
 
+[SortingAnimation](Solting/sketch_260910d/SoltAnimation.pde)
+
 [heapSorting](Solting/sketch_260910d/heapSolting.pde)
 ![Alt homework12](./homework/homework6.png)
 
