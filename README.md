@@ -1,7 +1,7 @@
 # leejseungAlgorithm
 Algorithm
 
-[SortingAnimation](Solting/sketch_260910d/BinarySearchTree.pde)
+[BinarySearchTree](Solting/sketch_260910d/BinarySearchTree.pde)
 ![Alt homework12](./homework/homework8.gif)
 
 [SortingAnimation](Solting/sketch_260910d/SortAnimation.pde)
