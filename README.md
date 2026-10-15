@@ -2,7 +2,7 @@
 Algorithm
 
 [SortingAnimation](Solting/sketch_260910d/SortAnimation.pde)
-![Alt homework12](./homework/homework7.mp4)
+![Alt homework12](./homework/homework7.gif)
 
 [heapSorting](Solting/sketch_260910d/heapSolting.pde)
 ![Alt homework12](./homework/homework6.png)
