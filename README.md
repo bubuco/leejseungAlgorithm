@@ -1,6 +1,9 @@
 # leejseungAlgorithm
 Algorithm
 
+[Dynamic Programming](Solting/sketch_260910d/DynamicProgramming.pde)
+![Alt homework12](./homework/homework10.png)
+
 [infix to postfix calculator using stack](Solting/sketch_260910d/calculatorUsingStack.pde)
 ![Alt homework12](./homework/homework9.png)
 
