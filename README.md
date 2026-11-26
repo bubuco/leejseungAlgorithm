@@ -1,6 +1,12 @@
 # leejseungAlgorithm
 Algorithm
 
+[Minimum Spanning Tree](Solting/sketch_260910d/PrimeMST.pde)
+![Alt homework12](./homework/homework12.png)
+
+[BFS and DFS](Solting/sketch_260910d/BFSandDFS.pde)
+![Alt homework12](./homework/homework11.png)
+
 [Dynamic Programming](Solting/sketch_260910d/DynamicProgramming.pde)
 ![Alt homework12](./homework/homework10.png)
 
